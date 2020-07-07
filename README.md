@@ -8,7 +8,7 @@
 2. Learn from failures
 3. Fail fast is ok
 
-<img src="https://i.imgur.com/koVerTU.jpg" alt="doug" style="width:100px;"/>
+<img src="https://i.imgur.com/koVerTU.jpg" alt="doug" style="width:200px;"/>
 
 ![Image of Doug](https://i.imgur.com/koVerTU.jpg)
 
