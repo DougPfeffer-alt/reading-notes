@@ -63,8 +63,8 @@ your text easier to read.
 
 * Opening a Terminal
 
-*. On a MAC (me), got to Applications, Utilites then Terminal
-*. On a LINUX Maching, go to Applications, System then Utilities
+*. On a MAC (me), got to Applications, Utilities then Terminal
+*. On a LINUX Machine, go to Applications, System then Utilities
 
 ### Terminology
 
