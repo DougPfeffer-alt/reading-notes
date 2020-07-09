@@ -13,5 +13,6 @@ I'm on [LinkedIn](https://www.linkedin.com/in/dougpfeffer/)
 - [Tools and Terminal Notes](tools-terminal.md)
 - [Using the Termninal](using-the-terminal.md)
 - [Git VS GitHub](git-github-notes.md)
+- [html](html.md)
 
 
