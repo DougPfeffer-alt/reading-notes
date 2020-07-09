@@ -1,4 +1,4 @@
-__Markdown Notes__
+__Markdown Notes!__
 
 Markdown saves a ton of time. What, in HTML, might take 5 key strokes, would take far less time in Markdown. I can see it as an incredible tool for collaboration, and simplicity...but it does seem a little limited.
 
