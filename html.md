@@ -1,8 +1,8 @@
-## When building a wensire, we should take some things into consideration
+## When building a website, we should take some things into consideration
 
 1. Who is the site for? - Identifying your target audience.
 1. Why people visit your website? - Why are they on your site? 
-1. what your visitors are trying to achieve? - What's their goal? 
+1. What your visitors are trying to achieve? - What's their goal? 
 1. What information your visitors need? - What info will they need?
 1. How often they visit your website? - Frequency?
 1. Site Maps - A road map for the sire.
@@ -13,7 +13,7 @@
 1. Getting your message across using design. Prioritizing and organizing content. Taking into account a visual hierarchy and organizing by grouping content, or noting similarity will  guide visitors to what they need to see.
 1. Design Navigation
     1. Concise
-    1. Clearl
+    1. Clear
     1. Selective 
     1. Context          
     1. Interactive
