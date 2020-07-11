@@ -14,5 +14,5 @@ I'm on [LinkedIn](https://www.linkedin.com/in/dougpfeffer/)
 - [Using the Termninal](using-the-terminal.md)
 - [Git VS GitHub](git-github-notes.md)
 - [html Notes](html-notes.md)
-
+- [CSS Notes](css-notes.md)
 
