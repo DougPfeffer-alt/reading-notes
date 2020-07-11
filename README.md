@@ -15,4 +15,4 @@ I'm on [LinkedIn](https://www.linkedin.com/in/dougpfeffer/)
 - [Git VS GitHub](git-github-notes.md)
 - [html Notes](html-notes.md)
 - [CSS Notes](css-notes.md)
-
+- [JavaScript](javascript-notes.md)
