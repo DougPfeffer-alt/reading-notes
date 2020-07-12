@@ -18,7 +18,7 @@
         1. Code each step 
     - Write a series of tasks required to meet that goal.
         - Step by step instructions...... 
-        - It helps to sketch this out ina flowchart. 
+        - It helps to sketch this out in a flowchart. 
 
 ## Expressions
 
@@ -33,12 +33,12 @@
     - Logical Operators (buy = (5 > 3) && (2 < 4);)
 - When using Arithmetic Operators, it is important to understand that multiplications and divisions will be executed prior to additions and subtractions.
 - There is only one String Operator, the + Symbol.
-- When usign String Elements, you must place a spave after each element to account for the space displayed during output.
+- When using String Elements, you must place a space after each element to account for the space displayed during output.
 
 ## What is a Function?
 
 - A function is a series of statements that are grouped together to perform a specific task.
-- Function Decleration
+- Function Declaration
     - Giving it a name and writing the statements needed to achieve the task in curly braces.
 - Calling the Function
     - Having declared the function, you can now execute  what's within the curly braces with just one line of code.....this is calling the function.
