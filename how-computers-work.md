@@ -13,7 +13,7 @@
         - Final output after processing of memory is complete
 - The output from one computer will become the input for another.
 
-## How Compuers Work: Binary & Data
+## How Computers Work: Binary & Data
 
 - 1s and 0s represent the circuit either being on or off....this is known as a Bit. More bits equal more capacity for info.
 - Decimal (0-9) / Binary (1 and 0) 
@@ -40,7 +40,7 @@
     ## CPU, Memory, Input & Output
 
     - Input can come from anywhere......phones, sensors on cars, etc,....
-    - When you input a number on a neyboard, it is converted into binary, it then figures out how to display the letter that you typed, and the output is when the letter appears on the screen. It happens incredibly fast.
+    - When you input a number on a keyboard, it is converted into binary, it then figures out how to display the letter that you typed, and the output is when the letter appears on the screen. It happens incredibly fast.
     - The more complicated the output is, the more powerful a CPU must be, and the more memory is needed.
 
     ## Hardware & Software
@@ -52,6 +52,6 @@
         - A series of commands tell the hardware what to do.
         - Binary code controls all of the hardware.
         - High level code commands break it down to binary.
-            - The Opearting System is the master code.
+            - The Operating System is the master code.
 
 
