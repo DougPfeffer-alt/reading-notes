@@ -18,3 +18,5 @@ I'm on [LinkedIn](https://www.linkedin.com/in/dougpfeffer/)
 - [JavaScript](javascript-notes.md)
 - [How Computers Work](how-computers-work.md)
 - [Programming With JavaScript](programming-with-javascript.md)
+- [Operators & Loops](operators-and-loops.md)
+ 
