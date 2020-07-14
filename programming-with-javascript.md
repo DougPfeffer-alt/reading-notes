@@ -8,6 +8,24 @@
 
 ## The ABCs of Programming
 
+## Vocabulary
+
+- Script - Reference to code (JavaScriot) that canbe executed
+- Programmatic Problem Solving - An approach , schedule or plan, step by step process
+- Expression - Any code that is evaluated and resolves to a value that- Operator
+    - `=` Assignment operator
+    - `||` Logical or
+    - `&&` Logical And
+    - `===` Strict Equals
+    - `==` Comparative equals 
+Function
+    - Declaration - When a function is DEFINED 
+    - Call - When you use a function `()` when you execute function or INVOKE the function 
+    - Parameters - Passed in when you DECLARE a function 
+    - Arguments - Passed in when you CALL a function - specific 
+    - Return value - Is it a thing? with js 
+Refactoring - "cleaning" or change to suit another purpose, better practice, more efficient
+
 ### What is a script and how do I create one?
 
 - A script is a series of instructions, like a manual, a recipe or a handbook.
