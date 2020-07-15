@@ -45,7 +45,8 @@
         - var i = 0 (Initialization)
         - i < 10; (Condition)
         - i ++ (Update, or keep adding 1 until condition is met). Shorthand meaning i = i+1
-        - for (this; many; times;){//do the thing:
+        - for (this; many; times;){  
+            //do the thing:
         }
 
 ### Using While loops
