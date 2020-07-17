@@ -26,5 +26,6 @@ CODE 102 Reading Notes
 
 CODE 201 Reading Notes
 
+- [Class 01](class-01.md)
 
  
