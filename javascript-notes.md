@@ -2,7 +2,7 @@
 
 - JavaScript - Makes for a dynamic page.
 - Conditionals 
-- Clode Block  
+- Code Block  
 - Operators - Assignment Operator, strict equals, +, -
 - Data Types
     - Number 42
