@@ -67,9 +67,9 @@
 - Vertical alignment: vertical-align
 - Indent Text: text-indent
 - Drop Shadow: text-shadow
-- First Letter or Line: :first-letter, :first-line
+- First Letter or Line: :first-letter, `:first-line`
 - Styling links: :link, :visited
-- Responding to users: :hover, :active, :focus
+- Responding to users: `:hover`, :active, `:focus`
 - Attribute Selectors: These allow you to create specific rules:
   - existence
   - equality
