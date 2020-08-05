@@ -1,6 +1,6 @@
 # [Understanding the problem domain is the hardest part of programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming/)
 
-- Great article explaining how to approach problem domains. The idea is to simplify and build off of it, iike a video game with tutorial levels and so on.
+- Great article explaining how to approach problem domains. The idea is to simplify and build off of it, like a video game with tutorial levels and so on.
 
 # Object Literals (JS - Chapter 3, pp. 100-105)
 
