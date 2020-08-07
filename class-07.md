@@ -44,7 +44,7 @@ Definition of a table: A table represents information in a grid format, like fin
 - Creating an object: Constructor Notation: The NEW keyword and the object constructor create a blank object. You can then add properties and methods to the object.
 
   - First, you create a new object, using a combination of the NEW keyword, and the object() constructor function.
-  - Next, having created the blank object, you can add properties and methods to it. Maje sure statement end with a semi-colon.
+  - Next, having created the blank object, you can add properties and methods to it. Make sure statement end with a semi-colon.
 
   example:
 
@@ -56,15 +56,15 @@ Definition of a table: A table represents information in a grid format, like fin
 
   hotel.checkAvailability = function() {return this.rooms - this.booked;};
 
-- Obtating an object: To update the value of properties, use dot notationor square brackets. They work on objects created using literal or constructor notation. To delete a property, use the DELETE keyword.
+- Obtaining an object: To update the value of properties, use dot notation or square brackets. They work on objects created using literal or constructor notation. To delete a property, use the DELETE keyword.
 
 - Creating many objects: Constructor Notation
 
-  - Sometimes you will want several objects to represent similar things. Object constructirs can use a function as a TEMPLATE for creatig objects. First, create the template with the objects properties and methods.
+  - Sometimes you will want several objects to represent similar things. Object constructors can use a function as a TEMPLATE for creating objects. First, create the template with the objects properties and methods.
   - You create instances of the object using the constructor function. The NEW keyword followed by the call to the function creates a new object. The properties of each object are given as arguments to the function. The
 
 - Creating objects using constructor syntax - p. 110
-- Create and access objects constructir notation - p. 111
+- Create and access objects constructor notation - p. 111
 - Adding and removing properties - p. 112
 
 - This (It is a keyword): The keyword THIS is commonly used inside functions and objects. Where the function is declared alters what THIS means. It always refers to one object, usually the object in which the function operates.
@@ -76,14 +76,14 @@ Definition of a table: A table represents information in a grid format, like fin
   - When a function is defined inside of an object, it becomes a method. In a method, this refers to the containing object.
 - Function expression as a Method:
 
-  - Ifa named function has been defined in global scope, and it is then used as a method of an object, THIS refers to the objects that it is contained within.
+  - If a named function has been defined in global scope, and it is then used as a method of an object, THIS refers to the objects that it is contained within.
 
 - RECAP: Storing Data
 
   - In JavaScript, data is represented using name/value pairs. To organize your data, you can use an array or object to group a set of related values. In arrays and objects, the name is also know as a key.
     - Variables: A variable has just one key (the variable name) and one value.
-    - Arrays: Arrays can store multiple pieces of information. Each piece of information is seperated by a comma. The order of the values is importantbecause items in an array are assigned a number.
-  - If you want to access items via a propery name or jey, use an object. If the order is important, use an array.
+    - Arrays: Arrays can store multiple pieces of information. Each piece of information is separated by a comma. The order of the values is important because items in an array are assigned a number.
+  - If you want to access items via a property name or jey, use an object. If the order is important, use an array.
     - Individual objects: Objects store sets of name/value pairs. If the order is important, use an array.
     - Multiple objects: When you need to create multiple objects within the same page, use an object constructor to provide a template for the objects.
 
@@ -95,9 +95,9 @@ Definition of a table: A table represents information in a grid format, like fin
 
   - 3 groups of built-in objects:
 
-    - Browser Object Model (creates a odel of the browser tab or window). WIndow Object Properties on p.124.
-    - Document Object Model (the DOM ctreates a model of the current page).Properties of the DOM on p.126
-    - Global JavaScript Objects (a group of individual objects that rerlate to different parts of the JavaScript language). Global object properties on p. 128
+    - Browser Object Model (creates a model of the browser tab or window). Window Object Properties on p.124.
+    - Document Object Model (the DOM creates a model of the current page).Properties of the DOM on p.126
+    - Global JavaScript Objects (a group of individual objects that relate to different parts of the JavaScript language). Global object properties on p. 128
 
   - Data types revisited:
     - Simple Types:
@@ -113,7 +113,7 @@ Definition of a table: A table represents information in a grid format, like fin
 
 - Global Objects: Math Object: The Math Object has properties and methods got mathematical constants and functions.
 
-- Creating an instance of the date object: In order to work with dtaes, you create an instance of the date object. You can then specify the timeand date that you want to represent.
+- Creating an instance of the date object: In order to work with daes, you create an instance of the date object. You can then specify the time and date that you want to represent.
   - Methods to set and retrieve the time and date on p. 137.
 
 Summary
@@ -124,4 +124,4 @@ Summary
 - In an object, variables are known as properties of the object; functions are known as methods of the object.
 - Web browsers implement objects that represent both the browser window and the document loaded into the browser.
 - JavaScript also has several built-in objects such as String, Number, Math and Date. Their properties and methods offer functionality that help you write scripts.
-- Arrays and objects can be used to create compex data sets, and both can contain the other.
+- Arrays and objects can be used to create complex data sets, and both can contain the other.
