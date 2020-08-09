@@ -13,7 +13,7 @@ Here's some tips to follow when building your own domain models.
 - Store the newly created object in a variable so you can access its properties and methods from outside.
 - Use the this variable within methods so you can access the object's properties and methods from inside.
 
-# Tables (HTML - Chapter 6, pp. 126 - 145)
+# Tables (HTML - Chapter 6, pps. 126 - 145)
 
 Definition of a table: A table represents information in a grid format, like financial reports, TV schedules and sports results.
 
