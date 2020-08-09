@@ -1,0 +1,34 @@
+# [Layout](http://htmlandcssbook.com/code-samples/chapter-15/) (HTML - Chapter 15, pp. 358-404)
+
+- Key concepts in positioning elements:
+  - Building Blocks (In CSS, boxes will either be inline or block-level)
+  - Containing blocks (One block elements sitting inside another. Known as containing or parent element)
+  - Controlling the position of elements.
+    - Normal Flow or Static (Each Block-level element sits on top of the next one).
+    - Relative Positioning (in relation to where it would have been in normal flow).
+    - Absolute Positioning (our of normal flow).
+    - Fixed Positioning (fixed value).
+    - Floating elements (places it to either far left or the far right).
+      - Clear Float (sayijg that no element should touch the far right or far right of a box)
+        - Can use:
+          - Left/Right
+          - Both
+          - None
+    - Z-Index (control the element that sits on top).
+- Creating multi-column layouts with floats:
+  - You can use:
+    - Width
+    - FLoat
+    - Margin
+- Screen Sizes: Different visitors will have different size screens. You will need to design pages that will work on a variety of screens.
+- Screen resolution: You'll need to account for this too.
+- Page Sizes: Because screen sizes and displays vary so much, most web designers create pages around 960-1000 pixels.
+- Fixed Width Layouts: These do not change as the user increases or decreases the size of their browser window.
+  - The width of the main boxes will be spelled out in pixels.
+- Liquid Layouts: These stretch and contract as the user increases or decreases the size of their screen.
+  - We use percentages to specify the width.
+    Layout Grids: Many wed designers use grid structure to position items on the page.
+- Fixed Width Layout: To create, the width of the main bozes on a page will be specified in pixels.
+- CSS Frameworks make life easier by providing the code for common tasks, such as creating:
+  - Layout Grids
+- Styling Forms- Layout examples - pp. 389 - 394.
