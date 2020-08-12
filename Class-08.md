@@ -31,4 +31,4 @@
 - Fixed Width Layout: To create, the width of the main bozes on a page will be specified in pixels.
 - CSS Frameworks make life easier by providing the code for common tasks, such as creating:
   - Layout Grids
-- Styling Forms - Layout examples - pp. 389 - 394.
+    - Styling Forms - Layout examples - pp. 389 - 394.
