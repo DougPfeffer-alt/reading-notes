@@ -20,7 +20,7 @@
     - Width
     - FLoat
     - Margin
-- Screen Sizes: Different visitors will have different size screens. You will need to design pages that will work on a variety of screens.
+- Screen Sizes: Different visitors to your site will have different size screens. You will need to design pages that will work on a variety of screens.
 - Screen resolution: You'll need to account for this too.
 - Page Sizes: Because screen sizes and displays vary so much, most web designers create pages around 960-1000 pixels.
 - Fixed Width Layouts: These do not change as the user increases or decreases the size of their browser window.
