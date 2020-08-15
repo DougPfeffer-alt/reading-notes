@@ -1,8 +1,8 @@
-# FORMS (HTML - Cahpter 7, pp.144-175)
+# FORMS (HTML - Chapter 7, pp.144-175)
 
 Why Forms?
 
-The best know form on the web is probabaly the search box, that sits right in the middle of google's homepage.
+The best know form on the web is probably the search box, that sits right in the middle of google's homepage.
 
 - Form controls
   - There are several types of form controls that you can use to collect information from visitors to your site.
@@ -22,7 +22,7 @@ The best know form on the web is probabaly the search box, that sits right in th
   
   How forms work: A user fills out a form, then pushes a button to upload it to a server.
 
-  - A form may have several form controls, each gathering different information. The server needs to know which piece of imputted data corresponds with which form element. 
+  - A form may have several form controls, each gathering different information. The server needs to know which piece of inputted data corresponds with which form element. 
 
   ## Form Structure
 
@@ -46,7 +46,7 @@ The best know form on the web is probabaly the search box, that sits right in th
 
   - The `<input>` element is used to create several different form controls. When the type attribute has a value of text, it creates a single line text input.
 
-  - Becasue servers needt to know which  form control is being used, each form control requires a name attribute. You can use the maxlength attribute to limit the number of characters in the field.
+  - Because servers need to know which  form control is being used, each form control requires a name attribute. You can use the maxlength attribute to limit the number of characters in the field.
 
   ## Password Input
 
@@ -94,9 +94,9 @@ The best know form on the web is probabaly the search box, that sits right in th
 
   - If you want to use an image for the submit button, you can give the type attribute a value of image (type="image")
 
-  ## Vutton and hidden controls
+  ## Button and hidden controls
 
-  - The `<button>` elemnt was introduced to give users more control over how their button was used.
+  - The `<button>` element was introduced to give users more control over how their button was used.
 
   - To allow page authors to add values to forms that users cannot see, you use the (type='hidden") attribute.
 
@@ -109,17 +109,17 @@ The best know form on the web is probabaly the search box, that sits right in th
   ## Grouping form Elements
 
   - You can group related form controls inside the `<fieldset>` element.
-  - The `<legend>` element can come dirrectly from the `<fieldset>` element, and helps identify the purpose of the form.
+  - The `<legend>` element can come directly from the `<fieldset>` element, and helps identify the purpose of the form.
 
   ## HTML5: Form Validation
 
-  - Messages in the form control com efrom validation. Validating content helps to:
-    - Redice the server load
+  - Messages in the form control com from validation. Validating content helps to:
+    - Reduce the server load
     - Users can see if there are problems with the form.
 
   ## HTML: Data input 
 
-  Many forms need tp gather info throuhg text input. HTML standardized this through:
+  Many forms need tp gather info through text input. HTML standardized this through:
     - type="date"
     - type="email"
     - type="url"
@@ -129,7 +129,7 @@ The best know form on the web is probabaly the search box, that sits right in th
 
   - When you need to collect info, you need a form (`<form>` element)
   - Info from a form is sent in name/value pairs
-  - Each form control is given a name, and the etxt that the user types in or the values of the options they select.
+  - Each form control is given a name, and the text that the user types in or the values of the options they select.
   - HTML5 introduced new form elements.
 
   # Lists, Tables and Forms (HTML - Chapter 14, pp. 33-357)
@@ -223,7 +223,7 @@ The best know form on the web is probabaly the search box, that sits right in th
   ## How events trigger JavaScript Code 
 
   1. Select the element node that you want the script to respond to.
-  1. Indicate which event on the selcted node will trigger the response.
+  1. Indicate which event on the selected node will trigger the response.
   1. State the code that you want to run.
 
   ## Three ways to bind an event to an element
@@ -233,7 +233,7 @@ The best know form on the web is probabaly the search box, that sits right in th
     - Attach one function to each event handler.
       - `element.onevent = functionName;`
   - DOM Level 2 event listeners
-    - If you use a named function when the event fires on your chosen DOM node, write that function forst.
+    - If you use a named function when the event fires on your chosen DOM node, write that function first.
     - Stored as a variable.
 
   ## Event listeners
@@ -290,7 +290,7 @@ The best know form on the web is probabaly the search box, that sits right in th
   - Binding is the process of stating which event you are waiting to happen, and which event you are waiting for that event to happen upon.
   - When an event occurs on an element, it can trigger a JS function. When this function changes the webpage in some way, it feels interactive because it has responded to the user.
   - You can use event delegation to monitor for events that happen on all of the children of an event.
-  The most commonly used events are W3C DOM, althouhg there are others in the HTML specification as well as browser-specific events.
+  The most commonly used events are W3C DOM, although there are others in the HTML specification as well as browser-specific events.
 
 
 
