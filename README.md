@@ -38,3 +38,4 @@ CODE 201 Reading Notes
 - [Class 08](class-08.md)
 - [Class 09](class-09.md)
 - [Class 10](class-10.md)
+- [Class 11](class-11.md)
