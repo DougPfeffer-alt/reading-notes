@@ -12,7 +12,7 @@ I'm on [LinkedIn](https://www.linkedin.com/in/dougpfeffer/)
 
 ## Table of Contents
 
-CODE 102 Reading Notes
+CODE 102 - Intro To Software Development Reading Notes
 
 - [Growth Mindset](growth-mindset.md)
 - [Markdown Notes](markdown-notes.md)
@@ -26,7 +26,7 @@ CODE 102 Reading Notes
 - [Programming With JavaScript](programming-with-javascript.md)
 - [Operators & Loops](operators-and-loops.md)
 
-CODE 201 Reading Notes
+CODE 201 - Foundations of Software Development Reading Notes
 
 - [Class 01](class-01.md)
 - [Class 02](class-02.md)
@@ -43,3 +43,7 @@ CODE 201 Reading Notes
 - [Class 13](class-13.md)
 - [Class 14a](class-14a.md)
 - [Class 14b](class-14b.md)
+
+CODE 301 - Inyermediate Software Development Reading Notes
+
+
