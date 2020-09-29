@@ -47,3 +47,4 @@ I'm on [LinkedIn](https://www.linkedin.com/in/dougpfeffer/)
 ## CODE 301 - Inyermediate Software Development Reading Notes
 
 - [Reading 01: Responsive Web Design And Floats](class-301-01.md)
+- [Reading 02: jQuery, Events, and The DOM](class-302-02.md)
